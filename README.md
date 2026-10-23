@@ -1,51 +1,39 @@
-# Toku 🗣️
+# 🇯🇵 Toku App
 
-**Toku** is a simple Flutter application designed to help beginners learn basic Japanese words and phrases through an easy and interactive interface.
+A simple Flutter application designed to help beginners learn Japanese words through audio pronunciation and easy-to-use categories.
 
-## 📱 About the App
+## 📱 About The Project
 
-Toku helps users learn Japanese vocabulary by organizing words into simple categories, making learning easier and more accessible.
+Toku is a beginner-friendly language learning app that helps users explore Japanese vocabulary and listen to the pronunciation of words.
 
 ## ✨ Features
 
-- 🔢 **Numbers:** Learn Japanese numbers.
-- 👨‍👩‍👧‍👦 **Family Members:** Learn Japanese words for family members.
-- 🎨 **Colors:** Learn the names of different colors in Japanese.
-- 💬 **Phrases:** Explore common Japanese phrases.
+- Browse words organized into categories.
+- Learn Japanese vocabulary with English translations.
+- Listen to audio pronunciations.
+- Simple and user-friendly interface.
 
-## 🛠️ Built With
+## 📸 Screenshots
+
+![Toku App Screenshots](screenshots/toku_screenshots.png)
+
+## 🛠 Technologies Used
 
 - Flutter
 - Dart
-- Material Design
-
-## 📂 Project Structure
-
-```text
-lib/
-├── components/
-│   └── category_item.dart
-├── screens/
-│   ├── colors_page.dart
-│   ├── family_members.dart
-│   ├── numbers_page.dart
-│   └── phrases_page.dart
-└── main.dart
-```
+- Audio playback package
 
 ## 🚀 Getting Started
-
-Follow these steps to run the project locally.
 
 ### Prerequisites
 
 - Flutter SDK
 - Dart SDK
-- Android Studio or Visual Studio Code
+- Android Studio or VS Code
 
 ### Installation
 
-1. Clone the repository:
+1. Clone this repository:
 
    ```bash
    git clone YOUR_REPOSITORY_URL
@@ -69,20 +57,9 @@ Follow these steps to run the project locally.
    flutter run
    ```
 
-## 🎯 Learning Goals
-
-This project was built to practice Flutter fundamentals, including:
-
-- Building user interfaces with widgets.
-- Creating reusable components.
-- Navigating between screens using `Navigator.push`.
-- Passing data to reusable category widgets.
-- Styling the application using colors and `Material Design`.
-
 ## 👨‍💻 Author
 
-Created as a Flutter learning project.
+**Mohamed Ali**
 
----
-
-⭐ If you find this project useful, feel free to star the repository!
+- GitHub: [MohamedAliRizk-11](https://github.com/MohamedAliRizk-11)
+- LinkedIn: [Mohamed Ali](https://www.linkedin.com/in/mohamed-ali-b56a23372/)
