@@ -4,24 +4,26 @@ A simple Flutter application designed to help beginners learn Japanese words thr
 
 ## 📱 About The Project
 
-Toku is a beginner-friendly language learning app that helps users explore Japanese vocabulary and listen to the pronunciation of words.
+Toku is a beginner-friendly language learning app that helps users explore Japanese vocabulary, learn its meaning in English, and listen to the correct pronunciation.
 
 ## ✨ Features
 
-- Browse words organized into categories.
-- Learn Japanese vocabulary with English translations.
-- Listen to audio pronunciations.
-- Simple and user-friendly interface.
+- 📚 Browse Japanese words organized into categories.
+- 🔢 Learn Japanese numbers.
+- 👨‍👩‍👧‍👦 Explore family member vocabulary.
+- 🎨 Learn colors in Japanese.
+- 💬 Practice useful Japanese phrases.
+- 🔊 Listen to audio pronunciations.
+- 🌙 Simple and user-friendly interface.
 
 ## 📸 Screenshots
 
-![Toku App Screenshots](screenshots/toku_screenshots.png)
+![Toku App Screenshots](assets/screenshots/toku_screenshots.jpg)
 
-## 🛠 Technologies Used
+## 🛠️ Technologies Used
 
 - Flutter
 - Dart
-- Audio playback package
 
 ## 🚀 Getting Started
 
@@ -29,20 +31,20 @@ Toku is a beginner-friendly language learning app that helps users explore Japan
 
 - Flutter SDK
 - Dart SDK
-- Android Studio or VS Code
+- Android Studio or Visual Studio Code
 
 ### Installation
 
-1. Clone this repository:
+1. Clone the repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/MohamedAliRizk-11/toku_app.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd toku
+   cd toku_app
    ```
 
 3. Install dependencies:
@@ -63,3 +65,7 @@ Toku is a beginner-friendly language learning app that helps users explore Japan
 
 - GitHub: [MohamedAliRizk-11](https://github.com/MohamedAliRizk-11)
 - LinkedIn: [Mohamed Ali](https://www.linkedin.com/in/mohamed-ali-b56a23372/)
+
+---
+
+*Built with Flutter 💙*
